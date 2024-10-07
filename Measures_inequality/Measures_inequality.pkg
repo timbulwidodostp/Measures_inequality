@@ -1,5 +1,8 @@
-d 'DEA': Data envelopment analysis
+d 'Measures_inequality': Measures of inequality (revised) Use inequal7 And inequal2 And ainequal With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f ainequal.ado
+f ainequal.hlp
+f inequal2.ado
+f inequal2.hlp
+f inequal7.ado
+f inequal7.hlp
