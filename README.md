@@ -1,6 +1,8 @@
 # Measures_inequality
 Measures of inequality (revised) Use inequal7 And inequal2 And ainequal With STATA 18
 
+https://www.youtube.com/watch?v=2fYXbFYOVIU
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
